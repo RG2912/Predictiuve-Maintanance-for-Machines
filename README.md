@@ -1,1 +1,1 @@
-# Predictiuve-Maintanance-for-Machines
+# Predictive-Maintanance-for-Machines
